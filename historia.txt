@@ -3,3 +3,5 @@ esta es una historia
 ok
 
 hoy hablaremos de git
+
+hoy hablaremos de su vida
